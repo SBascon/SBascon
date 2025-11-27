@@ -9,15 +9,15 @@
 
 </div>
 
+## Sobre mí :
 
-## About Me :
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente trabajo como **Data Analyst | Process Automation** en [QuEST Global / General Electric](https://www.questglobal.com/es/)
+- 🏢 Anteriormente trabajé como **Ingeniero de Software** en [iLabs](https://www.ilabs.lk/)
+- 🎓 Estudios en **Ingeniería Técnica Industrial** en la [Universidad Politécnica de Cataluña (UPC)](https://www.upc.edu/es)
+- 🎓 Estudios en **Desarrollo Front End** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
+- 🎓 Estudios en **Ciencia de Datos** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
+- 🏡 Vivo en **Dalugama, Sri Lanka**
+- ⚡ **Datos curiosos**: 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
