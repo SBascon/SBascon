@@ -11,25 +11,16 @@
 
 ## Sobre mí :
 
-- 🏢 Actualmente trabajo como **Data Analyst | Process Automation** en [QuEST Global / General Electric](https://www.questglobal.com/es/)
-- 🏢 Anteriormente trabajé como **Ingeniero de Software** en [iLabs](https://www.ilabs.lk/)
+- 🏢 Actualmente trabajo como **Data Analyst | Process Automation** en [QuEST Global](https://www.questglobal.com/es/)
 - 🎓 Estudios en **Ingeniería Técnica Industrial** en la [Universidad Politécnica de Cataluña (UPC)](https://www.upc.edu/es)
 - 🎓 Estudios en **Desarrollo Front End** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
 - 🎓 Estudios en **Ciencia de Datos** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
-- 🏡 Vivo en **Dalugama, Sri Lanka**
-- ⚡ **Datos curiosos**: 🍕 🏉 🏏 🎥 🚞
+- 🏡 Vivo en **Barcelona, España**
+- ⚡ **Intereses**: 🏃‍♂️ ✈️ 🎵 💻 📊 📈 🧠
 
 <br>
 
-## Connect with me ☕ :
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
+## Lenguajes y herramientas 🧑‍💻 :
 
 <br>
 
@@ -42,6 +33,16 @@
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
+
+
 
 ## GitHub Stats 📈 :
 
