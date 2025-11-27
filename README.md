@@ -1,22 +1,13 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Sergio Bascón</h1>
 
-<p align="center">
-  <a href="mailto:sergio23.bascon@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<div align="center">
 
-  <a href="https://github.com/SBascon">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:sergio23.bascon@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/SBascon)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/34654862594)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-basc%C3%B3n-portas-50719517b/)
 
-  <a href="https://wa.me/34654862594">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sergio-basc%C3%B3n-portas-50719517b/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
 
 ## About Me :
 
