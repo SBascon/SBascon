@@ -32,6 +32,24 @@
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
+<!-- Lenguajes y entornos -->
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/git.png"/> 
+<img src="https://img.icons8.com/color/48/000000/github.png"/> 
+
+<!-- Herramientas / entornos -->
+<img src="https://img.icons8.com/color/48/000000/jupyter.png"/> 
+<img src="https://img.icons8.com/color/48/000000/power-bi.png"/> 
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> 
+<img src="https://img.icons8.com/color/48/000000/visual-basic.png"/> 
+
+<!-- Bases de datos -->
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
 <br>
 
 ## Connect with me ☕ :
