@@ -29,7 +29,7 @@
 src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img 
-src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/> <img
+<img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" alt="Jupiter Notebook"/>
 src="https://img.icons8.com/color/48/000000/git.png"/> <img
 src="https://img.icons8.com/color/48/000000/github.png"/> <img                                   src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
