@@ -20,7 +20,7 @@
 
 <br>
 
-## Lenguajes y herramientas 🧑‍💻 :
+## Habilidades y Herramientas 🧑‍💻 :
 
 <br>
 
