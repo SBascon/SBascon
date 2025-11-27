@@ -36,6 +36,7 @@ src="https://img.icons8.com/color/48/000000/github.png"/> <img                  
 <!-- Herramientas / entornos -->
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> <img
 src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> <img
+src="https://img.icons8.com/color/48/000000/vba.png"/> <img
 src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 <br>
