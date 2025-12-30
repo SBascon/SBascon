@@ -32,13 +32,13 @@ src="https://img.icons8.com/color/48/000000/vue-js.png"
 src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img
 src="https://img.icons8.com/color/48/000000/git.png"/> <img
 src="https://img.icons8.com/color/48/000000/github.png"/> <img
-src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img
+src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 <!-- Lenguajes y herramientas de análisis de datos -->
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img
 src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" alt="Jupyter Notebook"/> <img
 src="https://img.icons8.com/color/48/000000/power-bi.png"/> <img
 src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> <img
-src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img
+src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 <br>
