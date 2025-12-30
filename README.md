@@ -28,8 +28,11 @@
 src="https://img.icons8.com/color/48/000000/css3.png"/> <img
 src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img
 src="https://img.icons8.com/office/48/000000/react.png"/> <img
-src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img
-src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+src="https://img.icons8.com/color/48/000000/vue-js.png"
+src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img
+src="https://img.icons8.com/color/48/000000/git.png"/> <img
+src="https://img.icons8.com/color/48/000000/github.png"/> <img
+src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img
 
 <!-- Lenguajes y herramientas de análisis de datos -->
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img
@@ -37,8 +40,5 @@ src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" w
 src="https://img.icons8.com/color/48/000000/power-bi.png"/> <img
 src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> <img
 src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img
-src="https://img.icons8.com/color/48/000000/git.png"/> <img
-src="https://img.icons8.com/color/48/000000/github.png"/> <img
-src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 <br>
