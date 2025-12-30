@@ -28,7 +28,7 @@
 src="https://img.icons8.com/color/48/000000/css3.png"/> <img
 src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img
 src="https://img.icons8.com/office/48/000000/react.png"/> <img
-src="https://img.icons8.com/color/48/000000/vue-js.png"
+src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img
 src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img
 src="https://img.icons8.com/color/48/000000/git.png"/> <img
 src="https://img.icons8.com/color/48/000000/github.png"/> <img
