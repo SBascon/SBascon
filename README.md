@@ -12,9 +12,8 @@
 ## Sobre mí :
 
 - 🏢 Actualmente trabajo como **Data Analyst | Process Automation** en [QuEST Global](https://www.questglobal.com/es/)
-- 🎓 Estudios en **Ingeniería Técnica Industrial** en la [Universidad Politécnica de Cataluña (UPC)](https://www.upc.edu/es)
-- 🎓 Estudios en **Ciencia de Datos** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
 - 🎓 Estudios en **Desarrollo Front End** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
+- 🎓 Estudios en **Ingeniería Técnica Industrial** en la [Universidad Politécnica de Cataluña (UPC)](https://www.upc.edu/es)
 - 🏡 Vivo en **Barcelona, España**
 - ⚡ **Intereses**: 🏃‍♂️ ✈️ 🎵 💻 📊 📈 🧠
 
@@ -23,6 +22,14 @@
 ## Habilidades y Herramientas 🧑‍💻 :
 
 <br>
+
+<!-- Desarrollo web y frontend -->
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img
+src="https://img.icons8.com/color/48/000000/css3.png"/> <img
+src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img
+src="https://img.icons8.com/office/48/000000/react.png"/> <img
+src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img
+src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
 <!-- Lenguajes y herramientas de análisis de datos -->
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img
@@ -33,13 +40,5 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img
 src="https://img.icons8.com/color/48/000000/git.png"/> <img
 src="https://img.icons8.com/color/48/000000/github.png"/> <img
 src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-<!-- Desarrollo web y frontend -->
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img
-src="https://img.icons8.com/color/48/000000/css3.png"/> <img
-src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img
-src="https://img.icons8.com/office/48/000000/react.png"/> <img
-src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img
-src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
 <br>
