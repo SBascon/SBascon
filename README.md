@@ -12,6 +12,7 @@
 ## Sobre mí :
 
 - 🏢 Actualmente trabajo como **Data Analyst | Process Automation** en [QuEST Global](https://www.questglobal.com/es/)
+- 🎓 Estudios en **Data Science** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
 - 🎓 Estudios en **Desarrollo Front End** en la [Universitat Oberta de Cataluña (UOC)](https://www.uoc.edu/es)
 - 🎓 Estudios en **Ingeniería Técnica Industrial** en la [Universidad Politécnica de Cataluña (UPC)](https://www.upc.edu/es)
 - 🏡 Vivo en **Barcelona, España**
